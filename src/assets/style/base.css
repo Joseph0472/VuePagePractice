@@ -1,0 +1,15 @@
+body {
+  background-color: #57665f;
+  font-family: 'Gotham-Bold';
+  color: #627278;
+}
+
+.title {
+  color: white;
+  font-family: 'Gotham-Bold';
+}
+
+.conetent {
+  color: #627278;
+  font-family: 'ProximaNova-Regular';
+}
