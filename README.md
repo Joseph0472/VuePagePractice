@@ -10,7 +10,7 @@
 
 ## Reflections
 
-* It takes way more time than I expected. The main reason is that I spent decent amount of time in the pure CSS layout implementation.
+* It takes way more time than I expected. The main reason is that I spent decent amount of time in the pure CSS layout implementation. I also got expected issues e.g. finding free icons.
 * External styling should be used when the project scaling.
 * The tests can definately cover more after I'm more proficient in Vitest.
 * No util dependencies used.
