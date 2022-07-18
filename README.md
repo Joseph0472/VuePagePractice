@@ -1,11 +1,10 @@
-# Joseph's Front-End Test
 
 | Tasks | Time Estimation | Real Time Cost  |
 |---    |---              |---              |
 | 1. Plan &amp; Design                              | 30 min | 30min |
-| 2. Desktop Design Implementation                  | 60 min | 70min |
-| 3. Show More Feature Implementation               | 30 min | 70min |
-| 4. Responsive Design and Animation Optimization   | 30 min | 80min |
+| 2. Desktop Design Implementation                  | 60 min | 40min |
+| 3. Show More Feature Implementation               | 30 min | 40min |
+| 4. Responsive Design and Animation Optimization   | 30 min | 40min |
 | 5. Test                                           | 30 min | 30min |
 
 ## Reflections
